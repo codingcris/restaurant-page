@@ -1,0 +1,80 @@
+{
+  "tacos": [
+    {
+      "name": "Tacos al Pastor",
+      "description": "Tender marinated pork, grilled pineapple, fresh cilantro, and finely chopped onion, served on a warm corn tortilla.",
+      "price": 3.5,
+      "image": "./tacosAlPastor.png"
+    },
+    {
+      "name": "Tacos de Asada",
+      "description": "Juicy, grilled steak, complemented by cilantro, onion, and tangy salsa, wrapped in a warm corn tortilla.",
+      "price": 4.0,
+      "image": "./tacosDeAsada.png"
+    },
+    {
+      "name": "Tacos de Pollo",
+      "description": "Succulent, marinated chicken, topped with fresh cilantro, onion, and a dash of zesty salsa, served on a corn tortilla.",
+      "price": 3.5,
+      "image": "./tacosDePollo.png"
+    },
+    {
+      "name": "Tacos de Pescado",
+      "description": "Fresh, flaky fish, lightly battered and fried, topped with a zesty slaw and a drizzle of creamy sauce, served on a corn tortilla.",
+      "price": 4.5,
+      "image": "./tacosDePescado.png"
+    }
+  ],
+  "sides": [
+    {
+      "name": "Chips and Salsa",
+      "description": "Crispy tortilla chips, served with our homemade, zesty tomato salsa.",
+      "price": 3.0,
+      "image": "./chipsAndSalsa.png"
+    },
+    {
+      "name": "Guacamole",
+      "description": "Creamy, freshly-made guacamole, perfect for dipping tortilla chips or topping your tacos.",
+      "price": 5.0,
+      "image": "./guacamole.png"
+    },
+    {
+      "name": "Pico de Gallo",
+      "description": "A refreshing mix of chopped tomatoes, onion, cilantro, and jalapeño, lightly seasoned with lime juice and salt.",
+      "price": 4.0,
+      "image": "./picoDeGallo.png"
+    },
+    {
+      "name": "Arroz Mexicano",
+      "description": "Flavorful Mexican-style rice, cooked with a blend of tomatoes, onion, garlic, and spices.",
+      "price": 3.5,
+      "image": "./arroz.png"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Margaritas",
+      "description": "Handcrafted margaritas, made with premium tequila and fresh-squeezed lime juice.",
+      "price": 8.0,
+      "image": "./margaritas.png"
+    },
+    {
+      "name": "Aguas Frescas",
+      "description": "Refreshing, house-made drinks, available in a variety of flavors such as horchata, tamarindo, and jamaica.",
+      "price": 3.5,
+      "image": "./aguasFrescas.png"
+    },
+    {
+      "name": "Mexican Beer",
+      "description": "A selection of popular Mexican beers, served ice-cold.",
+      "price": 5.0,
+      "image": "./beer.png"
+    },
+    {
+      "name": "Bottled Sodas",
+      "description": "An assortment of sodas, including both popular international brands and Mexican favorites.",
+      "price": 2.5,
+      "image": "./sodas.png"
+    }
+  ]
+}
